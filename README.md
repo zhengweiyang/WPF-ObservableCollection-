@@ -1,1 +1,3 @@
-# WPF-ObservableCollection-
+WPF-ObservableCollection 用法：
+
+listbox绑定了一个ObservableCollection列表，删除该列表某一项，listbox对应的那一项也会被删除
